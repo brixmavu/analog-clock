@@ -1,34 +1,64 @@
 Analog Clock SPA
 
-A single-page application (SPA) that displays an analog clock with a digital display. The clock can be switched between 12-hour, 24-hour, and PM clock formats.
+*Live Demo:*  
+👉 [brixmavu.github.io/analog-clock](https://brixmavu.github.io/analog-clock)
 
-Features
-- Analog clock display with hour, minute, and second hands
-- Digital clock display with format options
-- Switchable clock formats: 12-hour, 24-hour, and PM
-- Responsive design for mobile and desktop devices
+A single-page application (SPA) that displays an analog clock with a digital display. The clock can be switched between *12-hour*, *24-hour*, and *PM* clock formats.
 
-Technologies Used
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- SPA architecture with client-side routing
+---
 
-Getting Started
-1. Clone the repository: `git clone https://github.com/brixmavu/analog-clock.git`
-2. Open the `index.html` file in a web browser to view the application
-3. Use the buttons at the bottom of the page to switch between clock formats
+✅ Features
 
-Code Structure
-- `index.html`: The main HTML file for the application
-- `script.js`: The JavaScript file containing the application logic
-- `styles.css`: The CSS file containing the application styles
+- Analog clock display with hour, minute, and second hands  
+- Digital clock with switchable formats (12h / 24h / PM)  
+- Responsive layout for mobile and desktop  
+- Smooth hand movement and elegant transitions
 
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+---
 
-License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+🛠 Technologies Used
 
-Author
-Brixton Mavu mailto:brixtonmavu@gmail.com
+- *HTML5*
+- *CSS3*
+- *JavaScript (ES6+)*
+- SPA architecture (client-side routing)
+
+---
+
+🚀 Getting Started
+
+1. Clone the repository:  
+   `git clone https://github.com/brixmavu/analog-clock.git`
+
+2. Open the `index.html` file in your browser
+
+3. Use the format switch buttons at the bottom to toggle between clock modes
+
+---
+
+📁 Code Structure
+
+- `index.html` – Main HTML file  
+- `styles.css` – CSS styles  
+- `script.js` – Clock and SPA logic
+
+---
+
+🤝 Contributing
+
+Contributions are welcome!  
+Feel free to *fork* the repo and submit a *pull request*.
+
+---
+
+📄 License
+
+This project is licensed under the *MIT License*.  
+See the `LICENSE` file for details.
+
+---
+
+👤 Author
+
+*Brixton Mavu*  
+📧 [brixtonmavu@gmail.com](mailto:brixtonmavu@gmail.com)
