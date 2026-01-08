@@ -15,7 +15,7 @@ Technologies Used
 - SPA architecture with client-side routing
 
 Getting Started
-1. Clone the repository: `git clone https://github.com/brixmavu/analog-clock-spa.git`
+1. Clone the repository: `git clone https://github.com/brixmavu/analog-clock.git`
 2. Open the `index.html` file in a web browser to view the application
 3. Use the buttons at the bottom of the page to switch between clock formats
 
